@@ -3,6 +3,7 @@ class Voter:
     def __init__(self,age):
         print("1.Assiging age to age varbile in intilization method")
         self.age=age
+#123456789o0p-[asdfg
 
     #defining an method for checking whether is eligible or not.if above 18 eligible he is.
     def check_age(self):
