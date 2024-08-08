@@ -21,6 +21,7 @@ class Voter:
             print("Your Not eligible")
         else:
             print(f"You are eligible to vote {age}")
+        #Repository from local 
 
 #Taking age input from the user
 age=int(input("Enter the age: "))
